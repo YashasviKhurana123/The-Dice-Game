@@ -1,0 +1,79 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.butn {
+  position: relative;
+  /* bottom: 100px; */
+  top: 2rem;
+  right: 1rem;
+  background: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  border-radius: 7px;
+  color: #ffff;
+  font-size: 30px;
+  padding: 16px 25px 16px 25px;
+  text-decoration: none;
+}
+.btn {
+  position: relative;
+  /* bottom: 100px; */
+  top: 2rem;
+  left: 1rem;
+  background: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  border-radius: 7px;
+  color: #ffff;
+  font-size: 30px;
+  padding: 16px 25px 16px 25px;
+  text-decoration: none;
+}
+
+.img1{
+  position: relative;
+  /* bottom: 30px; */
+  /* height: 20rem; */
+}
+.img2{
+  position: relative;
+  /* bottom: 70px; */
+  /* height: 20rem; */
+}
